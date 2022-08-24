@@ -1,0 +1,7 @@
+>>python manage.py shell
+
+from loader.load import db_loader
+db_loader('Amish Tripathi')
+
+
+>, <Author: Chetan Bhagat

@@ -1,0 +1,7 @@
+>>python manage.py shell
+
+from bookstore.models import Book,Author,Genre,Seller,Format
+from django.contrib.auth.models import User
+from bookstore.load import db_loader
+db_loader()
+
