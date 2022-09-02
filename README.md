@@ -7,11 +7,11 @@
 * Favourite Books & Genres
 * Follow Authors
 * Search Pagination
-* Carousels & Slick Slider
+* Carousels & Slick-Slider
 * User Login & SignUp
-* User Profile & Address
+* User Profile
 * User Library & Notifications
-* User review & ratings
+* User Reviews & Ratings
 * Cart
 * Wishlist
 * Orders & Payment 
