@@ -15,7 +15,6 @@
 * Cart
 * Wishlist
 * Orders & Payment
-* Buy or Sell Books
 <br>
 
 > ## Views
