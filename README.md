@@ -14,7 +14,7 @@
 * User Library & Notifications
 * User review & ratings
 * Cart
-* Books Wishlist
+* Wishlist
 * Orders & Payment 
 <br>
 
