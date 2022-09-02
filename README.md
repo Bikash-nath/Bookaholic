@@ -5,7 +5,7 @@
 **Some Key Features are:**
 * Book search
 * Author search
-* Favourite Aooks & Genres
+* Favourite Books & Genres
 * Follow Authors
 * Search Filters & Pagination
 * Carousels & Slick Slider
