@@ -4,10 +4,9 @@
 
 **Some Key Features are:**
 * Book search
-* Author search
 * Favourite Books & Genres
 * Follow Authors
-* Search Filters & Pagination
+* Search Pagination
 * Carousels & Slick Slider
 * User Login & SignUp
 * User Profile & Address
